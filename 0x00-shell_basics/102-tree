@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir 
+mkdir {welcome/,welcome/to/,welcome/to/school} 
